@@ -5,5 +5,6 @@ This helps interact with Watson using SMS.It uses twilio (telecommunication API)
 
 What you will need to run:
 
-1.npm install watson-developer-cloud <br/>
-2.npm install -g mocha
+1.Run npm install the first time so all npm requirements will be installed.
+2.Give your credentials
+3.then run app.js and just sending messges through your phone and the conversation begins
